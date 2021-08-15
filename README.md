@@ -1,2 +1,2 @@
-# the-spiral-galaxy.github.io
+# cosmosrefactor.github.io
 Team site
